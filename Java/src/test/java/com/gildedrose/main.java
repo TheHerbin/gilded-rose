@@ -8,8 +8,8 @@ public class main {
 
     }
 
-    public void endOfTheDay(ArrayList<Item> itemList){
-        boolean res = false;
+    public void updateQuality(ArrayList<Item> itemList){
+
         for (Item unItem : itemList) {
             //conditions spéciales :
 
